@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://065535.github.io/</id>
     <title>Matrix</title>
-    <updated>2021-12-12T03:36:48.352Z</updated>
+    <updated>2021-12-15T06:31:55.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://065535.github.io/"/>
     <link rel="self" href="https://065535.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://065535.github.io/images/avatar.png</logo>
     <icon>https://065535.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Matrix</rights>
+    <entry>
+        <title type="html"><![CDATA[等保演变过程]]></title>
+        <id>https://065535.github.io/post/deng-bao-yan-bian-guo-cheng/</id>
+        <link href="https://065535.github.io/post/deng-bao-yan-bian-guo-cheng/">
+        </link>
+        <updated>2021-12-15T06:29:01.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[软件质量模型]]></title>
         <id>https://065535.github.io/post/ruan-jian-zhi-liang-mo-xing/</id>
